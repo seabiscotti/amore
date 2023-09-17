@@ -1,0 +1,89 @@
+index,name,rating,zipcode,promotion,price,max_capacity,url
+1,Dallas Dream Gardens,5,75201,true,5000,200,https://www.dallasdreamgardens.com
+2,Fort Worth Grand Ballroom,4,76102,false,6000,250,https://www.fortworthgrandballroom.com
+3,DFW Lakeside Manor,4,75019,true,5500,180,https://www.dfwlakesidemanor.com
+4,Arlington Elegance Hall,4,76010,true,4800,150,https://www.arlingtonelegancehall.com
+5,Plano Palms Pavilion,4,75023,false,5200,220,https://www.planopalmspavilion.com
+6,Irving Serenity Estate,5,75038,true,5500,200,https://www.irvingserenityestate.com
+7,Grand Prairie Grace Mansion,4,75050,false,5800,230,https://www.grandprairiegracemansion.com
+8,Grapevine Garden Chateau,5,76051,true,6000,250,https://www.grapevinegardenchateau.com
+9,Richardson Royal Hall,3,75080,true,4500,120,https://www.richardsonroyalhall.com
+10,Mesquite Meadows Venue,4,75149,false,4800,150,https://www.mesquitemeadowsvenue.com
+11,Denton Grand Estates,4,76201,true,5200,180,https://www.dentongrandestates.com
+12,McKinney Magnolia Mansion,5,75069,true,5800,200,https://www.mckinneymagnoliamansion.com
+13,Allen Azure Gardens,4,75002,false,5500,220,https://www.allenazuregardens.com
+14,Southlake Sapphire Ballroom,5,76092,true,6000,250,https://www.southlakesapphireballroom.com
+15,The Colony Crystal Cove,4,75056,false,5400,190,https://www.thecolonycrystalcove.com
+16,Frisco Forestview Manor,4,75034,true,5000,170,https://www.friscoforestviewmanor.com
+17,Mansfield Mountain View Lodge,4,76063,false,5200,200,https://www.mansfieldmountainviewlodge.com
+18,Addison Belle Chateau,5,75001,true,6000,230,https://www.addisonbellechateau.com
+19,Garland Garden Oasis,3,75040,true,4500,140,https://www.garlandgardenoasis.com
+20,Grandview Grand Pavilion,4,76050,false,4800,160,https://www.grandviewgrandpavilion.com
+21,Irving Sunset Terrace,5,75039,true,5800,210,https://www.irvingsunsetterrace.com
+22,Carrollton Crystal Gardens,4,75006,false,5500,220,https://www.carrolltoncrystalgardens.com
+23,Coppell Courtyard Hall,4,75019,true,5200,180,https://www.coppellcourtyardhall.com
+24,Plano Pinnacle Palace,5,75023,true,6000,240,https://www.planopinnaclepalace.com
+25,Rowlett Riverfront Venue,4,75088,false,4800,160,https://www.rowlettriverfrontvenue.com
+26,Wylie Whispering Pines,3,75098,true,4600,150,https://www.wyliewhisperingpines.com
+27,Burleson Blissful Barn,4,76028,false,5400,200,https://www.burlesonblissfulbarn.com
+28,Richardson Rose Garden Hall,5,75080,true,5800,210,https://www.richardsonrosegardenhall.com
+29,Lewisville Lakeside Lodge,4,75056,true,5200,180,https://www.lewisvillelakesidelodge.com
+30,Hurst Harmony Hall,4,76053,false,5000,160,https://www.hurstharmonyhall.com
+31,The Star Place, 3, 75216, false, 3000, 300, https://www.facebook.com/thastarplace/
+32,Nuvo Room, 5, 75244, false, 10000, 400,https://nuvoroom.com/
+33,The Laurel, 5, 76051, false, 15000, 500, https://www.thelaureltexas.com/
+34,Banquet Hall Event Center, 5, 75062, false, 3000, 300, https://irvingbanquethall.com/	
+35,Renaissance Dallas Hotel, 5, 75219, true, 20000, 1000, https://www.marriott.com/en-us/hotels/dalbr-renaissance-dallas-hotel/overview/
+36,The Empire Room, 5, 75207, false, 10000, 300, https://theempireroomdallas.com/
+37,The Westin Galleria Dallas, 4, 75240, true, 15000, 800, https://www.marriott.com/en-us/hotels/dalgw-the-westin-galleria-dallas/overview/
+38,The Adolphus Hotel, 5, 75202, false, 15000, 500, https://www.adolphus.com/
+39,The Joule, 5, 75201, false, 15000, 500, https://www.thejouledallas.com/
+40,The Ritz-Carlton: Dallas, 5, 75201, true, 20000, 1000, https://www.ritzcarlton.com/en/hotels/dalrz-the-ritz-carlton-dallas/overview/
+1,Austin Grand Ballroom,4,78701,true,5000,200,https://www.austingrandballroom.com
+2,Hill Country Manor,5,78704,false,6000,250,https://www.hillcountrymanor.com
+3,Lakeside Villa,4,78717,true,5500,180,https://www.lakesidevilla.com
+4,Sunset Terrace,4,78732,true,4800,150,https://www.sunsetterraceaustin.com
+5,Austin Pavilion,4,78745,false,5200,220,https://www.austinpavilion.com
+6,The Austin Vineyard,5,78748,true,5500,200,https://www.theaustinvineyard.com
+7,Greenbelt Gardens,4,78750,false,5800,230,https://www.greenbeltgardensaustin.com
+9,Austin Rose Garden,3,78703,true,4500,120,https://www.austinrosegarden.com
+10,Zilker Park Clubhouse,4,78746,false,4800,150,https://www.zilkerparkclubhouse.com
+11,Austin Heritage Hall,5,78753,true,5800,210,https://www.austinheritagehall.com
+12,South Congress Hotel,4,78704,false,5500,220,https://www.southcongresshotel.com
+13,The Terrace at Longhorn,4,78717,true,5200,180,https://www.theterraceatlonghorn.com
+14,Downtown Austin Loft,5,78701,true,6000,240,https://www.downtownaustinloft.com
+15,Lady Bird Johnson Wildflower Center,4,78739,false,4800,160,https://www.wildflower.org/weddings
+16,Austin Garden Pavilion,4,78705,true,5400,190,https://www.austingardenpavilion.com
+17,The Hillside Mansion,5,78723,true,5800,200,https://www.thehillsidemansion.com
+18,Butler Park Event Center,4,78702,false,5500,220,https://www.butlerparkeventcenter.com
+19,Enchanted Springs Ranch,4,78666,true,5900,250,https://www.enchantedspringsranch.com
+20,Central Texas Winery,5,78729,true,6200,280,https://www.centraltexaswinery.com
+21,Sunflower Meadows,3,78735,true,4700,150,https://www.sunflowermeadowsaustin.com
+22,The Riverbend Club,4,78738,false,5600,210,https://www.theriverbendclub.com
+23,The Lodge at Mount Bonnell,5,78731,true,5900,230,https://www.thelodgeatmountbonnell.com
+24,Austin Art Gallery,4,78756,false,5400,200,https://www.austinartgalleryvenue.com
+25,The Driskill Hotel,5,78701,true,6500,300,https://www.thedriskill.com
+26,The Terrace at Lady Bird Lake,4,78741,true,5800,250,https://www.terraceatlb.com
+28,Parkside Pavilion,4,78704,true,5500,220,https://www.parksidepavilionaustin.com
+29,Lost Pines Resort & Spa,5,78612,false,6800,320,https://www.lostpinesresort.com
+30,Austin Zen Garden,4,78758,true,5700,210,https://www.austinzengarden.com
+31,Lone Star Event Center,4,78752,true,5600,200,https://www.lonestareventcenter.com
+32,Texas Hill Country Inn,5,78730,false,6300,280,https://www.texashillcountryinn.com
+33,Austin Art Museum,4,78703,true,5500,220,https://www.austinartmuseumvenue.com
+34,Moonlight Gardens,3,78736,false,5200,190,https://www.moonlightgardensaustin.com
+35,The Austin Winery,4,78727,true,5900,250,https://www.theaustinwinery.com
+36,Red Rock Ranch,5,78620,true,6200,300,https://www.redrockranchaustin.com
+37,Starry Nights Event Barn,4,78641,false,5500,220,https://www.starrynightseventbarn.com
+38,The Oasis on Lake Travis,4,78732,true,5900,250,https://www.oasislaketravis.com
+39,Austin Botanical Gardens,5,78731,false,6400,280,https://www.austinbotanicalgardens.com
+40,Hill Country Hideaway,4,78669,true,5800,220,https://www.hillcountryhideawayaustin.com
+41,The Contemporary Austin,4,78703,true,5600,230,https://www.thecontemporaryaustin.com
+42,Pecan Springs Ranch,5,78653,false,6700,300,https://www.pecanspringsranch.com
+43,The Secret Garden,4,78705,true,5400,190,https://www.secretgardenaustin.com
+44,The Ranch at Austin,4,78610,true,5700,230,https://www.theranchataustin.com
+45,The Austin Aquarium,3,78753,false,5100,180,https://www.austinaquariumweddings.com
+46,Palmer Events Center,4,78704,true,5800,240,https://www.palmereventscenter.com
+47,Lake Travis Waterfront Lodge,5,78654,false,6600,280,https://www.laketravislodge.com
+48,Austin Country Club,4,78746,true,5900,250,https://www.austincountryclub.com
+49,The Oasis Lakefront Pavilion,4,78732,false,5500,220,https://www.oasislakefrontpavilion.com
+50,Casa Loma Event Center,5,78737,true,6000,280,https://www.casalomaeventcenter.com
