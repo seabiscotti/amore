@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load your dataset
-df = pd.read_csv("C:/Users/prani/Downloads/Streamlit Apps/venues.csv")
+df = pd.read_csv("./venues.csv")
 
 # Calculate the average price per person
 average_price_per_person = df['price'].sum() / df['max_capacity'].sum()
